@@ -1,5 +1,5 @@
 <div align="center">
-<h1><img src="assets/logo.png" height="35px"/> Merlin's Whisper: Enabling Efficient Reasoning in Large Language Models via Black-box Persuasive Prompting</h1> 
+<h1><img src="assets/logo.png" height="35px"/> Merlin's Whisper: Enabling Efficient Reasoning in LLMs via Black-box Persuasive Prompting</h1> 
 </div>
 <p align="center">
 <a href="https://arxiv.org/pdf/2510.10528">
